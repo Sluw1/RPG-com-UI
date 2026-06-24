@@ -3,7 +3,7 @@
 Um jogo RPG feito com HTML, CSS e JavaScript puro, com sistema de exploração, batalhas e progressão de personagem.
 
 ## 🚀 Demonstração
-https://app.netlify.com/projects/rpgui/
+https://rpgui.netlify.app/
 
 ## ⚔️ Funcionalidades
 - Sistema de exploração
